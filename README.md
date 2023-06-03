@@ -4,7 +4,7 @@
 
 
 
-In this Project, I've built a Web3 Dapp called CrowdFunding Application. As of now I've built the Smart Contract and Deployed it on Thirdweb. Currently, Im developing the Front-End of the Dapp and completing it.
+In this Project, I've built a Web3 Dapp called CrowdFunding Application. As of now I've built the Smart Contract and Deployed it on Thirdweb. Currently, I'm developing the Front-End of the Dapp and completing it.
 
 
 Use the `README.md` to get started.
