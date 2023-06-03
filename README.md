@@ -18,7 +18,7 @@ The Tech Stacks used are:
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=remix,solidity,thirdweb" />
+    <img src="https://skillicons.dev/icons?i=react,solidity,remix" />
 </a>
 </div>
 
